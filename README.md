@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I'm currently working on machine-learning projects<br>I'm looking to collaborate on NLP research projects<br>Ask me about Machine-learning theories and concepts<br>Fun Fact: I am a knowledge freak<br>How to reach me: my socials<br>pronouns:she
+💼 I'm currently working on machine-learning projects<br>🔬 I'm looking to collaborate on NLP research projects<br>❓🙋‍♀️ Ask me about Machine-learning theories and concepts<br>🤪 Fun Fact: I am a knowledge freak<br>👋 How to reach me: my socials<br>🙋‍♀️ pronouns:she
 
 
 ## 🌐 Socials:
