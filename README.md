@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-💼 I'm currently working on Data Science projects<br>🔬 I'm looking to collaborate on neuroscience Data Science projects<br>❓🙋‍♀️ Ask me about Data Science and Statistical analysis<br>🤪 Fun Fact: I love research and I  am a knowledge freak<br>👋 How to reach me: my socials<br>🙋‍♀️ pronouns: she
+💼 I'm currently working on ML Research Projects<br>🔬❓🙋‍♀️ Ask me about ML Theory, NLP and Deep learning<br>🤪 Fun Fact: I love research and I  am a knowledge freak<br>👋 How to reach me: my socials<br>🙋‍♀️ pronouns: she
 
 
 ## 🌐 Socials:
