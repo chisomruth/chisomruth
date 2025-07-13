@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-💼 I'm currently working on ML Research Projects<br>🔬❓🙋‍♀️ Ask me about ML Theory, NLP and Deep learning<br>🤪 Fun Fact: I love research and I  am a knowledge freak<br>👋 How to reach me: my socials<br>🙋‍♀️ pronouns: she
+❓🙋‍♀️ Ask me about ML Theory, Optimization and the Theoretical Foundations of Deep learning<br>🤪 Fun Fact: I love research and I  am a knowledge freak<br>👋 How to reach me: my socials<br>🙋‍♀️ pronouns: she
 
 
 ## 🌐 Socials:
