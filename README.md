@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-❓🙋‍♀️ Ask me about ML Theory, Optimization and the Theoretical Foundations of Deep learning<br>🤪 Fun Fact: I love research and I  am a knowledge freak<br>👋 How to reach me: my socials<br>🙋‍♀️ pronouns: she
+🙋‍♀️ I work in Machine Learning and Data Science Industry. <br>❓Ask me about ML Theory, Optimization and the Theoretical Foundations of Deep learning<br>🤪 Fun Fact: I love research and I  am an avid learner, continuously working on my skills. Since 5th of July 2025, I spend 2 hours everyday studing Mathematics for Machine Learning.<br>👋 How to reach me: my socials<br>🙋‍♀️ pronouns: she
 
 
 ## 🌐 Socials:
